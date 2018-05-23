@@ -5,5 +5,7 @@ echo "tulisan" > namafile.sh
 cp readme.sh Desktop/labkom1 Download/labkom2
 mv readme.sh Desktop/labkom1 Download/labkom2
 rm readme.sh Desktop/labkom1
- 
+
+##crop photo 
+sudo apt install shotwell 
 
